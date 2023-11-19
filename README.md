@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rendyananta
+- 👋 Hi, I’m @rndeey (Pronounce of Rendy)
 - 👀 I’m interested in distributed systems, app infrastructure, linux, and networking
 - 🌱 I’m currently learning linux system programming
 - 💞️ I’m looking to collaborate on go infrastructure applications
